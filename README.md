@@ -8,7 +8,7 @@
     margin-right:10%;
     
 }
-img{height :3px; width:2px;}
+
 .square{ height: 40px; width:40px;}
 .black{ background-color: lightblue;}
 .white{ background-color: white;}
@@ -99,7 +99,7 @@ img{height :3px; width:2px;}
 <div class = "square white" id = "57">R</div>
 <div class = "square black" id = "58">H</div>
 <div class = "square white" id = "59">B</div>
-<div class = "square black" id = "60"><img src = "blackqueen.png"></div>
+<div class = "square black" id = "60"><img src = "blackqueen.png" height = "30" width= "20"></div>
 <div class = "square white" id = "61">K</div>
 <div class = "square black" id = "62">B</div>
 <div class = "square white" id = "63">H</div>
