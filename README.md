@@ -8,6 +8,7 @@
     margin-right:10%;
     
 }
+img{height :30px; width:20px;}
 .square{ height: 40px; width:40px;}
 .black{ background-color: lightblue;}
 .white{ background-color: white;}
@@ -84,7 +85,7 @@
 </div>
 
 <div id="flex6">
-<div class = "square black" = "49">P</div>
+<div class = "square black" id = "49">P</div>
 <div class = "square white" id = "50">P</div>
 <div class = "square black" id = "51">P</div>
 <div class = "square white" id = "52">P</div>
@@ -98,7 +99,7 @@
 <div class = "square white" id = "57">R</div>
 <div class = "square black" id = "58">H</div>
 <div class = "square white" id = "59">B</div>
-<div class = "square black" id = "60"><img src = "Blackqueen.png"></div>
+<div class = "square black" id = "60"><img src = "blackqueen.png"></div>
 <div class = "square white" id = "61">K</div>
 <div class = "square black" id = "62">B</div>
 <div class = "square white" id = "63">H</div>
