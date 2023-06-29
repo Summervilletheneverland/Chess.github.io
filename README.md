@@ -8,7 +8,7 @@
     margin-right:10%;
     
 }
-img{height :30px; width:20px;}
+img{height :3px; width:2px;}
 .square{ height: 40px; width:40px;}
 .black{ background-color: lightblue;}
 .white{ background-color: white;}
